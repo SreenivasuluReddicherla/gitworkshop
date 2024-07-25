@@ -35,3 +35,5 @@ To use Git on your local machine, you need to install it first. Here are the ins
 2. Install Git using Homebrew:
    ```bash
    brew install git
+
+### For Ubantu
